@@ -1,4 +1,4 @@
-Please use the original version at Signynt/signynts-darkroom-shortcut. This is a work in progress to adapt theze amazing scripts to my own workflow.
+> **Please use the original version at Signynt/signynts-darkroom-shortcut. This is a work in progress to adapt theze amazing scripts to my own workflow.**
 
 > **Important!**
 > There is a newer version avaible that is fully implemented in Python, which makes it easier to install & platform independent. Find it under [Signynt's Darkroom Sript](https://github.com/Signynt/signynts-darkroom-script)
